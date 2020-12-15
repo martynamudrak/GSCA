@@ -7,3 +7,7 @@ File generalna.csv contains basic information about Polish voivodships like popu
 File granice.csv contains information about the borders of Polish voivodships.
 Files : drogi.csv, kolej.csv and lotnictwo.csv contain information about regions connections by roads, railways, airports
 Folder "charts" will keep the images created during the simulation. Folder "all_files" will keep the files with amout of susceptible, infected and recovered people at define step of time.
+
+
+To start simulations, run main.py
+But before please check if you have all the requirements from file requirements.txt
